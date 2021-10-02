@@ -1,0 +1,55 @@
+body{
+    background-size: cover;
+}
+
+.header{
+    width: 100%;
+}
+
+.heading{
+    float: left;
+    color:aquamarine;
+    font-size: 22px;
+}
+
+.instructions{
+    float: right;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.mario{
+    width: 100%;
+}
+
+.play{
+    font-size: 17px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.ins{
+    display: inline-block;
+    width: 45%;
+}
+
+.modal-header{
+    background-color: brown;
+}
+
+#text{
+    background-color: brown;
+    font-size: 20px;
+    line-height: 2;
+    margin: 0px;
+    font-weight: bold;
+}
+
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 15px;
+}
